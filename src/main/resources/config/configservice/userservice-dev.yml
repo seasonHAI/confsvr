@@ -1,0 +1,7 @@
+tracer.property: "I AM THE DEV"
+spring.jpa.show-sql: "true"
+spring.database.driverClassName: "com.mysql.cj.jdbc.Driver"
+spring.datasource.username: "root"
+spring.datasource.password: "{cipher}36618ce1086a79723d16d22fea0e863a2141997c9ec500a3a25b76acb22cbe95"
+management.endpoints.web.exposure.include: "env,health,info,refresh"
+usrsvr.property.name: "张三.李四.王五"
